@@ -1,4 +1,4 @@
-Shader "Custom/MaskTexture"
+Shader "Custom/Chapter7/MaskTexture"
 {
 	Properties{
 		_Color("Color Tint", Color) = (1, 1, 1, 1)
